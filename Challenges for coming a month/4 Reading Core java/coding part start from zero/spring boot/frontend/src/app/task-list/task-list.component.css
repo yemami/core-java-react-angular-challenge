@@ -4,7 +4,7 @@ h3 {
   }
   
   .form-group {
-    margin-bottom: 20px;
+    margin-bottom: 22px;
   }
   
   table {
@@ -45,3 +45,6 @@ h3 {
     border-color: #bd2130;
   }
   
+  .row{
+    background-color: rgb(143, 147, 147);
+  }
